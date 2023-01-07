@@ -1,5 +1,5 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jahidhasan9282)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]
-### Hi there 👋, my name is jahhid hasan
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/jahidhasan9282)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>]
+### Hi there 👋, My name is Jahid Hasan
 #### I am Web-Developer
 ![I am Web-Developer](https://scontent.fdac19-1.fna.fbcdn.net/v/t1.6435-9/52315675_1993608834278612_4622087535865102336_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=BPwfMEc4mA0AX9p3lKi&_nc_ht=scontent.fdac19-1.fna&oh=00_AfCOnSwtzUDUu7JKAQQXRoRFeJqawtXdKRDig-fajW2mQw&oe=63E07CF9)
 

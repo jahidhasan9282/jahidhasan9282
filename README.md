@@ -1,7 +1,7 @@
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='10'>](https://github.com/https://github.com/jahidhasan9282)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='10'>]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/jahidhasan9282)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>]
 ### Hi there 👋, My name is Jahid Hasan
 #### I am Web-Developer
-![I am Web-Developer](https://scontent.fdac19-1.fna.fbcdn.net/v/t1.6435-9/52315675_1993608834278612_4622087535865102336_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=BPwfMEc4mA0AX9p3lKi&_nc_ht=scontent.fdac19-1.fna&oh=00_AfCOnSwtzUDUu7JKAQQXRoRFeJqawtXdKRDig-fajW2mQw&oe=63E07CF9)
+![I am Web-Developer](https://scontent.fdac19-1.fna.fbcdn.net/v/t39.30808-6/323873909_875659043556197_6349634158350825888_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=hUH6zPSP2LYAX9lPx0t&_nc_ht=scontent.fdac19-1.fna&oh=00_AfCC1z5x-zA5qnWJCF9HaWe8p0AGARhI5SHiJIT7IK0o_g&oe=63BD14C8)
 
 My career goal is to become an effective and conscientious engineer who is able to solve problems, cooperate and motivate others with minimum guidance and acquire a job that utilizes my skills in engineering, and managing activities. 
 
@@ -13,7 +13,6 @@ Skills:  HTML / CSS / Bootstrap / MS Office/  Graphic Design.
 - 💬 Ask me about Web-Development 
 - 📫 How to reach me: https://www.facebook.com/profile.php?id=100008885448661 
 - ⚡ Fun fact: I love Codding. 
-
 
 (https://www.facebook.com/https://www.facebook.com/profile.php?id=100008885448661)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCYVkcNmRopuYmSCqGNPSJ0A)  
 
